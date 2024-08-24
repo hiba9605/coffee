@@ -1,0 +1,201 @@
+*{
+    font-family: "Satisfy", cursive;
+}
+#cart{
+    margin-top: 50px;
+}
+#search{
+    margin-left: -30px;
+    margin-top: 50px;
+}
+#mainhead{
+    padding: 40px;
+    margin: 20px;
+}
+#first{
+    margin-left: 50px;
+}
+#mainimg{
+    margin-left: 1000px;
+margin-top: 140px;
+}
+
+#img{
+    margin-top: -600px;
+}
+#paraone{
+    margin-left: 15px;
+}
+#our{
+    margin-top: 300px;
+    text-align: center;
+    
+}
+#menu{
+
+}
+#cappu{
+    height: 500px;
+}
+#latte{
+    height: 500px;
+}
+#mocha{
+    height: 500px;
+}
+#affo{
+    height: 500px;
+}
+#ame{
+    margin-top: -350px;
+    height: 500px;
+}
+#esper{
+    margin-top: -350px;
+    height: 500px;
+}
+#maz{
+    margin-top: -350px;
+    height: 500px;
+}
+#yuan{
+    margin-top: -350px;
+    height: 500px;
+}
+#pro{
+    margin-top: 60px;
+}
+#pow{
+   height: 300px;
+}
+#powtone{
+    height: 300px;
+ }
+ #powtwo{
+    height: 300px;
+ }
+ #powtlast{
+    height: 300px;
+ }
+ #product{
+    padding: 40px;
+ }
+ #nei{
+    margin-left: 60px;
+ }
+ #sukku{
+    margin-left: 80px;
+ }
+ #bru{
+    margin-left: 90px;
+ }
+ #nes{
+    margin-left: 90px;
+ }
+ #make{
+    margin-top: 50px;
+ }
+ #stepone{
+    height: 300px;
+    margin-top: 30px;
+ }
+ #steptwo{
+    height: 300px;
+    width: 350px;
+ }
+ #about{
+    margin-top: 50px;
+ }
+ #aboutimg{
+    margin-top: 60px;
+    width: 850px;
+ }
+ #special{
+    margin-top: 80px;
+ }
+ #contact{
+    margin-top: 80px;
+ }
+#icon{
+    margin-top: 60px;
+}
+#footone{
+    
+}
+#face:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+}
+#twit:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#insta:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#pin:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#link:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#footone:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#foottwo:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#footthree:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#footfour:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#footfive:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#footsix:hover{
+    background-image: linear-gradient(to bottom right,brown,orange);
+
+}
+#copyright{
+    margin-left: 90px;
+    margin-top: 10px;
+}
+body{
+    overflow-x: hidden;
+}
+
+@media(max-width:760px){
+    #mainimg{
+        margin-left: -50px;
+        margin-top: 720px;
+    }
+    #our{
+        margin-top: 8px;
+    }
+
+  #listone{
+           padding: 0px;
+           margin-top: 60px;
+  }
+  #main{
+    margin-top: 20px;
+    
+  }
+  #copy{
+    margin-top: 100px;
+    color: white;
+    padding: 0px;
+  }
+  #contact{
+    margin-top: 20px;
+  }
+}
